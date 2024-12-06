@@ -56,5 +56,3 @@ The goal of building this personal movie database is to create a customized movi
    GROUP BY g.genre
    ORDER BY avg_rating DESC;
    ```
-
-5. <img src="C:\Users\byc01\AppData\Roaming\Typora\typora-user-images\image-20241205214120700.png" alt="image-20241205214120700" style="zoom:200%;" />
